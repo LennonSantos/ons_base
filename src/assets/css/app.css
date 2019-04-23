@@ -1,1 +1,21 @@
 /* All styles goes here */
+
+.w-75 {
+  width: 75%;
+}
+
+.b-none {
+  border: none;
+}
+
+.p-2 {
+  padding: 0.5em;
+}
+
+.m-2 {
+  margin: 0.5em;
+}
+
+.m-1 {
+  margin: 0.25em !important;
+}
